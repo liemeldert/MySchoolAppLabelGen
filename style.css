@@ -1,0 +1,32 @@
+@page {
+  padding: 12mm 4mm;
+  width: 8.5in;
+  height: 11in;
+}
+
+img {
+    height: 8mm;
+    margin-left: 1mm;
+    image-rendering: pixelated;
+    scale: 200%;
+}
+
+p {
+    font-size: 10pt;
+    line-height: 2px;
+}
+
+.content {
+  padding-left: 4mm;
+  width: 66.5mm;
+  height: 25mm;
+  text-align: center;
+  border: 1px solid black;
+    padding-top: 2mm;
+
+}
+
+.block {
+  display: inline;
+
+}
